@@ -1,7 +1,3 @@
-Sure, here's a draft README file for the code:
-
----
-
 # GANs for Synthetic Image Generation
 
 This repository contains code for generating synthetic images using Generative Adversarial Networks (GANs). The code is implemented using TensorFlow and Keras and demonstrates the generation of synthetic images resembling handwritten digits from the MNIST dataset.
@@ -54,7 +50,3 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README file according to your specific project details and preferences.
